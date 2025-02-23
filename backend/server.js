@@ -6,7 +6,7 @@ app.use(express.json());
 app.use(cors());
 
 const USER_ID = "himanshu1422"; // Change this to your full name & DOB
-const EMAIL = "himanshu@example.com"; // Change this to your email
+const EMAIL = "himanshukumar14092003@gmail.com.com"; // Change this to your email
 const ROLL_NUMBER = "CU123456"; // Change this to your roll number
 
 // POST /bfhl → Process data

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import Select from "react-select";
 
-const API_URL = "https://qualifier-mplo.onrender.com/bfhl";
+const API_URL = "https://qualifier-j37b.onrender.com/bfhl";
 
 function App() {
   const [jsonInput, setJsonInput] = useState("");
